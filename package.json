@@ -1,22 +1,18 @@
 {
-  "name": "digian-html",
+  "name": "triangle",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "triangle group landing page",
   "scripts": {
     "dev": "parcel index.html --port 8080",
-    "build": "parcel build ./dist index.html --public-url /"
+    "build": "parcel build ./dist index.html"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "git"
+  ],
+  "author": "sachin kotian",
   "license": "ISC",
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4",
-    "sass": "^1.32.8"
-  },
   "dependencies": {
-    "bootstrap": "^4.3.1",
-    "jquery": "^3.6.0",
-    "popper.js": "^1.16.1"
+    "ev-emitter": "^2.1.0",
+    "parcel": "^2.0.0-beta.2"
   }
 }
