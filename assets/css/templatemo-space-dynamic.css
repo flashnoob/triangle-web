@@ -294,7 +294,7 @@ header
   transition: all 0.3s ease 0s;
 }
 
-.header-area .main-nav .logo h4 {
+.header-area .main-nav .logo h1 {
     font-size: 24px;
     font-weight: 700;
     text-transform: uppercase;
@@ -307,17 +307,17 @@ header
     transition: all 0.3s ease 0s;
 }
 
-.logo h4 span {
+.logo h1 span {
   color: #fe3f40;
 }
 
-.header-area .main-nav .logo h4 img {
+.header-area .main-nav .logo h1 img {
   margin-top: -20px;
   margin-left: 5px;
   margin-right: -10px;
 }
 
-.background-header .main-nav .logo h4 {
+.background-header .main-nav .logo h1 {
   line-height: 80px;
 }
 
@@ -616,14 +616,14 @@ header
   .background-header .main-nav .nav li:nth-child(6) {
     padding-right: 0px;
   }
-  .header-area .main-nav .logo h4 {
+  .header-area .main-nav .logo h1 {
     font-size: 30px;
     margin-left: -50px;
   }
 }
 
 @media (max-width: 769px) {
-  .header-area .main-nav .logo h4 {
+  .header-area .main-nav .logo h1 {
     font-size: 30px;
     margin-left: -50px;
   }
