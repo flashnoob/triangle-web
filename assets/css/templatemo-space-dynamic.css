@@ -1652,21 +1652,21 @@ p{
     Multicoloured Hover Variations
 */
 
-#lab_social_icon_footer #social-fb:hover {
+#lab_social_icon_footer #social-fb:hover,lab_social_icon_footer #social-fb:active {
   color: #3B5998;
 }
 
-#lab_social_icon_footer #social-tw:hover {
+#lab_social_icon_footer #social-tw:hover,lab_social_icon_footer #social-tw:active {
   color: #4099FF;
 }
 
-#lab_social_icon_footer #social-gp:hover {
+#lab_social_icon_footer #social-gp:hover,lab_social_icon_footer #social-gp:active {
   color:  #0e76a8;
 }
 
-#lab_social_icon_footer #social-em:hover {
+#lab_social_icon_footer #social-em:hover,lab_social_icon_footer #social-em:active {
   color: #f39c12;
 }
-#lab_social_icon_footer #social-in:hover {
+#lab_social_icon_footer #social-in:hover,lab_social_icon_footer #social-in:active {
   color:#bc1888 
 }
